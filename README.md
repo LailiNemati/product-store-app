@@ -24,3 +24,12 @@ A modern product store application built with React and Redux Toolkit.
 ```bash
 npm install
 npm run dev
+
+Project Structure
+src/
+  redux/
+  App.jsx
+  main.jsx
+
+  Author
+  Laili Nemati
